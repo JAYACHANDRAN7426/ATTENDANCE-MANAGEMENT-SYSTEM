@@ -26,7 +26,7 @@ The **Attendance Management System** is a Java-based desktop application designe
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/attendance-management-system.git
+   [git clone](https://github.com/JAYACHANDRAN7426/ATTENDANCE-MANAGEMENT-SYSTEM)
    ```
 2. Open the project in an IDE (Eclipse/IntelliJ IDEA/NetBeans).
 3. Configure the MySQL database with the following credentials:
