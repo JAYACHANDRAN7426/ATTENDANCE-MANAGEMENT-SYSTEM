@@ -57,4 +57,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any issues, feel free to contact [your email/website].
+For any issues, feel free to contact [jayachandran7426@gmail.com]
